@@ -14,8 +14,12 @@
 
   scroll-behavior: smooth;
 
-  font-family: "Popping";
+  font-family: "Kh Ang MoulHand";
 
+}
+@font-face{
+  font-family: Kh Ang MoulHand;
+  src: url(Kh Ang MoulHand.ttf);
 }
 
 :root {
